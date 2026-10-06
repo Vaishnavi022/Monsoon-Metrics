@@ -107,6 +107,21 @@ For this project:
 - GitHub
 
 ---
+Monsoon-Metrics/
+│
+├── data/
+│   └── rainfall_data.csv
+│
+├── Monsoon_Metrics_Rainfall_Analysis.ipynb
+│
+├── powerbi/
+│   └── Monsoon_Metrics.pbix
+│
+├── images/
+│   └── dashboard.png
+│
+└── README.md
+---
 
 ## 🔄 Project Workflow
 
