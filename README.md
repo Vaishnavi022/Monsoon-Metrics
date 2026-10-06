@@ -29,7 +29,7 @@ The final output is an interactive **Power BI dashboard** that provides a visual
 
 ## 📊 Dashboard Preview
 
-![Monsoon Metrics Dashboard](dashboard/dashboard.png)
+![Monsoon Metrics Dashboard](dashboard/dashboard.jpg)
 
 ---
 
