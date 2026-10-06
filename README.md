@@ -68,7 +68,9 @@ The dataset contains daily rainfall observations for Indian states and union ter
 | `normal` | Normal rainfall value |
 | `deviation` | Deviation from normal rainfall |
 
-Additional analytical columns were created during preprocessing:
+### Additional Analytical Columns
+
+The following columns were created during data preprocessing:
 
 - `year`
 - `month`
@@ -88,25 +90,33 @@ For this project:
 ## 🛠️ Technologies Used
 
 ### Programming & Data Analysis
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 
 ### Database & SQL
+
 - MySQL
 - MySQL Workbench
 - SQL
 
 ### Data Visualization
+
 - Microsoft Power BI
 - Power Query
 
 ### Development Environment
+
 - Jupyter Notebook
 - GitHub
 
 ---
+
+## 📁 Project Structure
+
+```text
 Monsoon-Metrics/
 │
 ├── data/
@@ -121,23 +131,3 @@ Monsoon-Metrics/
 │   └── dashboard.png
 │
 └── README.md
----
-
-## 🔄 Project Workflow
-
-```text
-Rainfall Dataset
-       ↓
-Data Cleaning & Preprocessing
-       ↓
-Python Exploratory Data Analysis
-       ↓
-MySQL Database
-       ↓
-SQL Analysis
-       ↓
-Power BI Visualization
-       ↓
-Interactive Rainfall Dashboard
-       ↓
-Insights & Conclusions
