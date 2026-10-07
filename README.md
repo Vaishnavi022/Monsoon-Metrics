@@ -9,10 +9,9 @@ Monsoon Metrics is a data analytics project that analyzes rainfall patterns acro
 The project combines **Python, Pandas, MySQL, SQL, and Power BI** to explore rainfall seasonality, yearly variation, state-level differences, rainfall deviation, and Maharashtra-specific rainfall patterns.
 
 ---
-
 ## 📌 Project Overview
 
----
+
 Rainfall varies significantly across different months, years, and states in India.
 
 The objective of this project is to transform historical rainfall records into meaningful analytical insights through:
