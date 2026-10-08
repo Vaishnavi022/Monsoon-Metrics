@@ -11,7 +11,6 @@ The project combines **Python, Pandas, MySQL, SQL, and Power BI** to explore rai
 ---
 ## 📌 Project Overview
 
-
 Rainfall varies significantly across different months, years, and states in India.
 
 The objective of this project is to transform historical rainfall records into meaningful analytical insights through:
